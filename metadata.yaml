@@ -1,5 +1,5 @@
 homepage: "https://useinsider.com/"
 documentation: "https://developers.useinsider.com/docs"
 versions:
-  - sha: 7d1ef69606be2a8bb197690d1bf5d42c9a283563
-    changeNotes: First release cart amount identifier.
+  - sha: 0b11a313d1d0d4616c22a733e7a2d5fbbd5946de
+    changeNotes: First release category breadcrumb identifier.
